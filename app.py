@@ -1,0 +1,21 @@
+import streamlit as st
+with st.sidebar:
+    st.text("Ousseynou ba")
+    st.text("CISSE")
+    st.text("Tel:776600451")
+    st.text("Email: cousseynouba@gmail.com")
+    st.subheader("GEOMATICIEN")
+   
+st.header("Formations")
+st.info("Baccalaureat L2 ")
+st.info("BTS GEOMATIQUE")
+st.header("Expériences professionnelles")
+st.write("Collecte de données")
+st.write("Faire des cartes thématiques sur ArcGis")
+st.header("Compétences")
+st.write("Manipuler des drones ")
+st.write("Dessiner des plans")
+st.header("Objectifs")
+st.write(" Bonne maitrise des logiciels SIG")
+st.header("Projet")
+st.write(" Avoir une entreprise de topographie ")
